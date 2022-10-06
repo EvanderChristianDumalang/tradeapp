@@ -5,7 +5,7 @@
 
 # trade App
 
-Trade App using Google Firebase
+Trade App using Finnhub Stocks API (https://finnhub.io/)
 
 ### Built With
 

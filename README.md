@@ -33,6 +33,9 @@ Trade App using Finnhub Stocks API (https://finnhub.io/)
 
 <img src="assets/user.png" width="200" height="400"> <img src="assets/deposit.png" width="200" height="400"> <img src="assets/withdraw.png" width="200" height="400">
 
+### Demo
+<img src="assets/demo.gif" width="200" height="400">
+
 ## Installation
 
 - Add [Flutter](https://flutter.dev/docs/get-started/install) to your machine
